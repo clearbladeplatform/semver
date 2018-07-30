@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,semver",
+    "logging_enabled": "false",
+    "name": "semverSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "semverSmokeTest.js"
+}
